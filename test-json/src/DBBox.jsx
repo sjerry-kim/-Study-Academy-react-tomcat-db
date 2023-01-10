@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { useEffect } from "react";
 
 // Ajax를 사용하여 localhost:8080에 접근하여 값을 가져옴
 const DBBox = () => {
